@@ -1,10 +1,10 @@
-# Dashboard Produção Cirúrgica — HRR
+# Dashboard Produção Cirúrgica
 ## Resumo do Projeto para Memória de Contexto
 
 ---
 
 ## O QUE FOI CONSTRUÍDO
-Dashboard interativo completo de produção cirúrgica do **Hospital Regional de Registro (HRR)**, desenvolvido como arquivo HTML standalone (~1MB), sem frameworks, sem servidor, sem Power BI.
+Dashboard interativo completo de produção cirúrgica doe um hospital em São Paulo, desenvolvido como arquivo HTML standalone (~1MB), sem frameworks, sem servidor, sem Power BI.
 
 **Arquivo entregue:** `dashboard_producao_cirurgica_HRR.html`
 
