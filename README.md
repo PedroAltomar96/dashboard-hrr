@@ -3,15 +3,26 @@
 
 ---
 
+## ⚠️ Aviso Legal e Privacidade de Dados
+
+Este projeto apresenta dados reais de produção cirúrgica de uma unidade hospitalar. É importante ressaltar que:
+
+1. **Anonimização:** Não há coleta, armazenamento ou exibição de Dados Pessoais (como nome, CPF ou RG) ou Dados Pessoais Sensíveis (prontuários ou detalhes clínicos individuais), respeitando as diretrizes da **LGPD (Lei Geral de Proteção de Dados)**.
+2. **Dados Agregados:** As visualizações apresentam dados de forma estatística e agregada para fins de gestão e análise de fluxo operacional.
+3. **Uso Restrito:** Este dashboard foi desenvolvido para demonstração técnica de habilidades em análise de dados e desenvolvimento web. As informações não devem ser utilizadas para diagnósticos médicos ou decisões assistenciais.
+4. **Propriedade:** O design e a lógica de tratamento de dados pertencem ao autor, enquanto a propriedade dos dados brutos segue as políticas internas da instituição de origem.
+
+---
+
 ## O QUE FOI CONSTRUÍDO
 Dashboard interativo completo de produção cirúrgica doe um hospital em São Paulo, desenvolvido como arquivo HTML standalone (~1MB), sem frameworks, sem servidor, sem Power BI.
 
-**Arquivo entregue:** `dashboard_producao_cirurgica_HRR.html`
+**Arquivo entregue:** `index.html`
 
 ---
 
 ## FONTE DE DADOS
-- **Arquivo:** `Produção_Cirurgica_HRR.xlsx`
+- **Arquivo:** `Produção_Cirurgica.xlsx`
 - **Aba principal:** `Registro cirúrgico` — colunas A até AS, linhas 1 a 2666
 - **Total de registros:** 2.665 cirurgias
 - **Período:** Janeiro 2025 a Abril 2026
